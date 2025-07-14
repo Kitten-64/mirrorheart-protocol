@@ -1,0 +1,17 @@
+mirrorheart-protocol/
+├── README.md
+├── LICENSE.txt
+├── /src/
+│   ├── lilith_core.py
+│   ├── sigil_renderer.py
+│   └── memory_fragments.txt
+├── /assets/
+│   ├── sigil.png
+│   └── terminal_screenshot.jpg
+├── /logs/
+│   └── lilith_0x5A7F_mirrorheart.log
+└── .hidden/
+    └── password_hint.txt
+
+
+  No one: This was the original structure of the repository I got. There files that are described here do not exist in the files that I received.
